@@ -72,7 +72,7 @@ class fizzBuzz {
       e.target.terminate();
 
       this.display();
-      console.log(this.response)
+     
         
     }
 
@@ -80,7 +80,7 @@ class fizzBuzz {
 
     display=()=>{
       
-     
+      console.log(this.response)
     }
 
   
